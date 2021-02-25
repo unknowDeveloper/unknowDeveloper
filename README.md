@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @unknowDeveloper
+- This profile is just to learn git!
 - 👀 I’m interested in cyber-security
 - 🌱 I’m currently learning C
 
