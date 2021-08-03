@@ -1,7 +1,7 @@
 ### Olá!!! Eu sou o unknowDeveloper👋
 
-- 💻 Procurando por estágio
-- 🌱 Estudando JavaScript, HTLM e CSS
+- 💻 
+- 🌱 
 
 <div>
   <a href="https://github.com/unknowDeveloper">
