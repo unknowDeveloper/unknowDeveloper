@@ -1,4 +1,4 @@
-### Olá!!! Eu sou o unknowDeveloper👋
+### unknowDeveloper👋
 
 - 💻 
 - 🌱 
